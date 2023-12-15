@@ -18,7 +18,7 @@ class _LoginPageState extends State<LoginPage> {
         Padding(
           padding: const EdgeInsets.only(left: 35, top: 150),
           child: Text(
-            "WELCOME\nTO STORE",
+            "Welcome To Store",
             style: TextStyle(
                 color: Colors.white, fontSize: 34, fontFamily: 'Inspiration'),
           ),
